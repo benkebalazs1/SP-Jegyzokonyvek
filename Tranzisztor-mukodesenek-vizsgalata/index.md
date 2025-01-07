@@ -16,6 +16,20 @@ A tranzisztor működésének vizsgálatához az NI myDAQ műszert alkalmaztam. 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -A kapcsolás megvalósítása:
 ![IMG_20250107_125701](https://github.com/user-attachments/assets/ecd65e28-8caa-43b5-8823-1bfd6f86ff90)
 
