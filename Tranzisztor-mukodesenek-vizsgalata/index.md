@@ -9,14 +9,17 @@ A tranzisztor működésének vizsgálatához az NI myDAQ műszert alkalmaztam. 
 
 # A kapcsolás
 -A kapcsolási rajz: ![Screenshot_5](https://github.com/user-attachments/assets/8f14f7e9-3a73-4738-9e68-97ffeb64a8f5)
--A kapcsolás megvalósítása: ![Screenshot_5](https://github.com/user-attachments/assets/349495d7-dca9-4176-8916-009be3293d97)
+-A kapcsolás megvalósítása: ![IMG_20250107_125701](https://github.com/user-attachments/assets/ecd65e28-8caa-43b5-8823-1bfd6f86ff90)
+
 
 # A mérési műszerek:
 | Műszer neve: | NI myDAQ | Metek M38 |
+|---------|----------|----------|
 | Gyártási szám: | 305E1ED | 736015 | 
 
 # A mérési eredmények:
 | Ube (V) | URc (V)  | I (mA)   |
+|---------|----------|----------|
 | 0       | 0        | 0.000    |
 | 0.5     | 0.003    | 0.014    |
 | 0.6     | 0.113    | 0.514    |
