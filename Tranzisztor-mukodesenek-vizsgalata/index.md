@@ -1,8 +1,10 @@
 # Tranzisztor működésének vizsgálata
 
--A mérést végezte: Benke Balázs
--A mérés helye. V3 labor
--A mérés időpontja: 2025.01.07
+---
+ -A mérést végezte: Benke Balázs
+ -A mérés helye. V3 labor
+ -A mérés időpontja: 2025.01.07
+---
 
 # A tranzisztor mérésének folyamata:
 A tranzisztor működésének vizsgálatához az NI myDAQ műszert alkalmaztam. A mérési áramkörbe egy tranzisztort építettem, melynek bázisához egy ellenálláson keresztül tápláltam be a vezérlőjelet. A mérés során figyelemmel kísértem az emitter- és kollektoráramok értékeit, hogy értékeljem az áramkör működését. A mérési folyamat végén a kollektor-ellenálláson eső feszültséget mértem, amely lehetővé tette számomra a tranzisztor működési állapotának és a vezérlőáram hatásának meghatározását. Az adatok alapján elemeztem a tranzisztor erősítési tényezőjét és a kapcsolási jellemzőit is.A méréskor NI myDAQ-t használtam. A méréskor azt is észre vettem, hogy 1.5V után konstans eredményt kapok.
