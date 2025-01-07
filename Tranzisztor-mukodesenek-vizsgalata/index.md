@@ -5,7 +5,7 @@
  - A mérés időpontja: 2025.01.07
 
 # A tranzisztor mérésének folyamata:
-A tranzisztor működésének vizsgálatához az NI myDAQ műszert alkalmaztam. A mérési áramkörbe egy tranzisztort építettem, melynek bázisához egy ellenálláson keresztül tápláltam be a vezérlőjelet. A mérés során figyelemmel kísértem az emitter- és kollektoráramok értékeit, hogy értékeljem az áramkör működését. A mérési folyamat végén a kollektor-ellenálláson eső feszültséget mértem, amely lehetővé tette számomra a tranzisztor működési állapotának és a vezérlőáram hatásának meghatározását. Az adatok alapján elemeztem a tranzisztor erősítési tényezőjét és a kapcsolási jellemzőit is. **A méréskor azt is észre vettem, hogy 1.5V után már konstans eredményt kapok**.
+A tranzisztor működését az NI myDAQ eszközzel vizsgáltam, amely lehetővé tette a különböző áramkör-paraméterek pontos mérését. A vizsgálat során egy tranzisztort integráltam az áramkörbe, és a vezérlőjelet egy bázisellenálláson keresztül biztosítottam. A mérés alatt az emitter- és kollektoráramok változásait figyeltem meg, hogy meghatározzam az áramkör viselkedését. A kísérlet végén a kollektor-ellenálláson eső feszültség segítségével sikerült felmérnem a tranzisztor működési állapotát és a vezérlőáram hatását. Az adatok elemzése során meghatároztam a tranzisztor erősítési tényezőjét, valamint a kapcsolás jellemzőit. **A mérési eredmények azt mutatták, hogy 1.5V körüli feszültségnél az értékek stabilizálódnak, és nem változnak tovább**.
 
 # A kapcsolás
 -A kapcsolási rajz:
