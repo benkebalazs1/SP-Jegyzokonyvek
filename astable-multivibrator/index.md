@@ -5,4 +5,4 @@
  - A mérés időpontja: 2025.01.21
 
 # Kapcsolás:
-https://tinyurl.com/25lhfc8e
+https://tinyurl.com/2yeay6m6
