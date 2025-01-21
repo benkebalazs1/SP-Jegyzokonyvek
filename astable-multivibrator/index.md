@@ -1,4 +1,4 @@
-# Tranzisztor működésének vizsgálata
+# Astable Multivibrator
 
  - A mérést végezte: Benke Balázs
  - A mérés helye. V3 labor
