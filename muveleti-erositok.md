@@ -18,7 +18,9 @@ Az μA702 egy különösen fontos mérföldkő volt, mivel elérhetővé tette a
 ## A Műveleti Erősítők Elterjedése
 Az op-ampok terjedése nemcsak az elektronikai ipar számára hozott változásokat, hanem a tudományos és ipari alkalmazások is új lehetőségekkel bővültek. A műveleti erősítők az alábbi területeken váltak alapvetővé:
 - **Jelfeldolgozás**: Az op-ampokat széles körben használták és használják még ma is a jelfeldolgozás területén, mint például audioerősítőkben, televíziókban és rádiókban.
+- 
 - **Mérések és irányítás**: Az ipari mérőműszerekben, például feszültség- és árammérőkben szintén nélkülözhetetlen eszközzé váltak.
+- 
 - **Szűrők és aktív áramkörök**: A különböző típusú analóg szűrők és erősítők építése, amely az op-ampok segítségével valósul meg, elterjedt a digitális elektronikai rendszerek előtt.
 
 ## A Modern Idők
@@ -28,14 +30,19 @@ A műveleti erősítők ma már a legkülönbözőbb feladatokat látják el, a 
 
 ## Jellemzők:
 - **Kettős bemenet:** Az op-amp két bemeneti csatlakozóval rendelkezik: az egyik a „+” jelű (nem-invertáló bemenet), míg a másik a „–” jelű (invertáló bemenet).
+- 
 - **Nagy erősítés:** Az ideális op-amp nagyon magas erősítéssel rendelkezik, akár 100 000-szeres vagy annál is magasabb mértékben.
+- 
 - **Visszacsatolás:** Az op-amp működése általában egy visszacsatoló áramkörön keresztül van szabályozva, amely lehetővé teszi a pontos működést és az erősítés beállítását.
 
 ## Alkalmazások:
 1. **Erősítők:** Az op-ampokat leginkább különböző erősítő áramkörökben használják, mint például audio erősítőkben vagy mérőműszerekben.
-2. **Szűrők:** Az op-ampokat aktív szűrőkben is alkalmazzák, például aluláteresztő, felüláteresztő vagy sávszűrő áramkörökben.
-3. **Komparátorok:** Az op-ampokat komparátorokban is használják, ahol a bemeneti jelek összehasonlításával döntéseket hoznak (pl. ha a feszültség átlépi a meghatározott szintet).
-4. **Integrátorok és differenciálók:** Az op-ampokat integrátor és differenciáló áramkörökben is alkalmazzák, amelyek a bemeneti jelet matematikai műveletekkel manipulálják.
+2. 
+3. **Szűrők:** Az op-ampokat aktív szűrőkben is alkalmazzák, például aluláteresztő, felüláteresztő vagy sávszűrő áramkörökben.
+4. 
+5. **Komparátorok:** Az op-ampokat komparátorokban is használják, ahol a bemeneti jelek összehasonlításával döntéseket hoznak (pl. ha a feszültség átlépi a meghatározott szintet).
+6. 
+7. **Integrátorok és differenciálók:** Az op-ampokat integrátor és differenciáló áramkörökben is alkalmazzák, amelyek a bemeneti jelet matematikai műveletekkel manipulálják.
 
 ## Összegzés:
 A műveleti erősítő története szorosan összefonódik az elektronika fejlődésével, és az 1960-as években való áttörése óta jelentős szerepet játszik a technológiai fejlődésben. Az op-ampok az analóg jelek erősítésének alapvető komponensei, és ma már elengedhetetlenek számos iparág és alkalmazás számára. A műveleti erősítő egy sokoldalú, nagy erősítésű, analóg jelkezelő eszköz, amelyet számos különböző elektronikai alkalmazásban használunk. Az op-amp egyszerű, de rendkívül hasznos alkatrész az analóg áramkörök világában.
