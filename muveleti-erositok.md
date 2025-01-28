@@ -2,6 +2,10 @@
 
 A műveleti erősítő (vagy operációs erősítő, röviden op-amp) egy elektronikai komponens, amelyet általában analóg jelek erősítésére használnak. Alapvetően egy differenciál erősítő, ami azt jelenti, hogy két bemeneti jelet vesz, és azok különbségét erősíti fel. Az op-amp kimenete az erősített különbségi feszültség, azaz a két bemeneti feszültség közötti különbség szorzata az erősítés mértékével.
 
+## Kép:
+![UA741](https://github.com/user-attachments/assets/c1f5c656-6114-4fd6-8b42-ec44bdb565dd)
+
+
 ## Jellemzők:
 - **Kettős bemenet:** Az op-amp két bemeneti csatlakozóval rendelkezik: az egyik a „+” jelű (nem-invertáló bemenet), míg a másik a „–” jelű (invertáló bemenet).
 - **Nagy erősítés:** Az ideális op-amp nagyon magas erősítéssel rendelkezik, akár 100 000-szeres vagy annál is magasabb mértékben.
