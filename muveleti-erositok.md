@@ -7,6 +7,11 @@ A műveleti erősítő (vagy operációs erősítő, röviden op-amp) egy elektr
 ## Kapcsolás (741-es):
 ![OpAmpTransistorLevel_Colored_Labeled svg](https://github.com/user-attachments/assets/ee73688c-e470-4180-b311-b04ffe5c29ca)
 
+## Invertáló:
+![Invertáló_alapkapcsolás](https://github.com/user-attachments/assets/69348deb-2404-4a68-9b5f-cd1d13377d62)
+
+## Nem invertáló:
+![079_c](https://github.com/user-attachments/assets/64b3ed6f-7270-4e11-8c0e-380a2d61b490)
 
 # A Műveleti Erősítő Története
 A műveleti erősítő (op-amp) története szorosan összefonódik az analóg elektronika fejlődésével, és a 20. század közepére nyúlik vissza.
