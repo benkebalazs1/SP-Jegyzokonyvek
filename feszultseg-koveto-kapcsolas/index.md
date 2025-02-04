@@ -30,7 +30,7 @@ Feszültség és áram:
 - Tápfeszültség: A TL071 típust az egyenfeszültségű tápegységekkel használják, és támogatja a ±3V és ±18V közötti tápfeszültséget (vagy 6V és 36V között is), így a sokoldalúsága kiemelkedő.
 
 Nagyfokú érzékenység:
-A TL071 jól működik alacsony frekvenciájú alkalmazásokban, különösen amikor alacsony zajra van szükség. Alacsony offset feszültséggel és alacsony torzítással rendelkezik, ami különösen fontos precíz jelfeldolgozó áramköröknél.
+- A TL071 jól működik alacsony frekvenciájú alkalmazásokban, különösen amikor alacsony zajra van szükség. Alacsony offset feszültséggel és alacsony torzítással rendelkezik, ami különösen fontos precíz jelfeldolgozó áramköröknél.
 
 Működési jellemzők:
 - Alacsony zajszint: A TL071 kifejezetten alacsony zajt generál, ami fontos jelfeldolgozásnál, ahol minden kis zajkibocsátás hátrányos lehet.
