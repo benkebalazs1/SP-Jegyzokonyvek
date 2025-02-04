@@ -20,7 +20,7 @@ Kapcsolási rajz:
 ## TL071 IC:
 A TL071 egy népszerű, alacsony zajszintű, egyszálas (single) operációs erősítő IC, amelyet gyakran használnak különböző analóg áramkörökben. A Texas Instruments gyártotta, és a TL071 az operációs erősítők egy jól ismert családjának a tagja. Az IC-t különböző alkalmazásokhoz tervezték, például erősítők, szűrők, analóg jelek feldolgozása és egyéb analóg áramkörökben.
 
-##### Főbb jellemzők és paraméterek
+#### Főbb jellemzők és paraméterek
 Bemeneti jellemzők:
 - Alacsony bemeneti torzítás: A TL071 alacsony bemeneti torzítással rendelkezik, ami azt jelenti, hogy nem okoz jelentős eltéréseket a bemeneti jelben.
 Nagyon magas bemeneti impedancia: Az IC rendkívül magas bemeneti impedanciát biztosít, amely elhanyagolható áramot vesz fel a bemeneti forrástól, így az nem befolyásolja a bemeneti jel erősségét.
@@ -29,17 +29,17 @@ Kimeneti jellemzők:
 Feszültség és áram:
 - Tápfeszültség: A TL071 típust az egyenfeszültségű tápegységekkel használják, és támogatja a ±3V és ±18V közötti tápfeszültséget (vagy 6V és 36V között is), így a sokoldalúsága kiemelkedő.
 
-##### Nagyfokú érzékenység
+#### Nagyfokú érzékenység
 - A TL071 jól működik alacsony frekvenciájú alkalmazásokban, különösen amikor alacsony zajra van szükség. Alacsony offset feszültséggel és alacsony torzítással rendelkezik, ami különösen fontos precíz jelfeldolgozó áramköröknél.
 
-##### Működési jellemzők
+#### Működési jellemzők
 - Alacsony zajszint: A TL071 kifejezetten alacsony zajt generál, ami fontos jelfeldolgozásnál, ahol minden kis zajkibocsátás hátrányos lehet.
 - Kimeneti áram: A kimeneti áram korlátozott, de elegendő a legtöbb analóg alkalmazáshoz, például erősítő áramkörökhöz és jelerősítéshez.
 - Frekvenciaválasz: A TL071 operációs erősítő frekvenciaválasza is elég jó, és képes kezelni a viszonylag magas frekvenciájú jeleket is, mivel nagy nyitott hurok erősítése van (open-loop gain), amely általában 100,000 vagy annál nagyobb.
 - Használati alkalmazások:
 A TL071 egy sokoldalú IC, amelyet széles körben alkalmaznak az elektronikai iparban és hobbi áramkörökben. Néhány példa a tipikus alkalmazásokra.
 
-##### Alkalmazások
+#### Alkalmazások
 - Jelerősítés: A TL071 gyakran használatos kis jelszintű jelek erősítésére, például mikrofonok, szenzorok és más alacsony szintű bemeneti jelek esetében.
 - Szűrők: Aktív szűrőkben, mint például aluláteresztő, felüláteresztő, vagy sávszűrők, gyakran alkalmazzák a TL071-et, mivel jól kezeli a különböző analóg jelalakokat.
 - Jelfeldolgozás: A precíz analóg jelfeldolgozás során, például jelfeldolgozó rendszerekben, ahol alacsony zaj és magas linearitás szükséges.
