@@ -21,9 +21,10 @@ Kapcsolási rajz:
 A TL071 egy népszerű, alacsony zajszintű, egyszálas (single) operációs erősítő IC, amelyet gyakran használnak különböző analóg áramkörökben. A Texas Instruments gyártotta, és a TL071 az operációs erősítők egy jól ismert családjának a tagja. Az IC-t különböző alkalmazásokhoz tervezték, például erősítők, szűrők, analóg jelek feldolgozása és egyéb analóg áramkörökben.
 
 ### Kép:
-| Kép 1 | Kép 2 |
+| Pin out | fizikai kép |
 |-------|-------|
-| ![TL071-Pinout](https://github.com/user-attachments/assets/7108b71b-8f6e-43b0-8221-5b04afacb704) | [3pcs-tl071-low-noise-j-fet-single-operational-amplifier-ic-tl-original-imagubepf4hxhfde](https://github.com/user-attachments/assets/bbacc572-1b37-4bdc-9d6f-ee31b2a12113) |
+| ![TL071-Pinout](https://github.com/user-attachments/assets/7108b71b-8f6e-43b0-8221-5b04afacb704) | ![41xSQa1swuL](https://github.com/user-attachments/assets/d5f4c7a9-9eaa-4cbb-a2d8-974911f90378) |
+
 
 
 #### Főbb jellemzők és paraméterek
