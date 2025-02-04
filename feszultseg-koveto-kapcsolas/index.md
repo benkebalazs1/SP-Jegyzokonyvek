@@ -54,3 +54,5 @@ A TL071 egy sokoldalú IC, amelyet széles körben alkalmaznak az elektronikai i
 - Szűrők: Aktív szűrőkben, mint például aluláteresztő, felüláteresztő, vagy sávszűrők, gyakran alkalmazzák a TL071-et, mivel jól kezeli a különböző analóg jelalakokat.
 - Jelfeldolgozás: A precíz analóg jelfeldolgozás során, például jelfeldolgozó rendszerekben, ahol alacsony zaj és magas linearitás szükséges.
 - Feszültségkövetők: A TL071 egy feszültségkövető (buffererősítő) szerepét is betöltheti, mivel magas bemeneti impedanciája és alacsony kimeneti impedanciája van, így alkalmas jelek átvitelére torzítás nélkül.
+
+nagyobb r=12k, kisebb r=2.7k, Au=5.44
