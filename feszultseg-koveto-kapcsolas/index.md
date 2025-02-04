@@ -31,12 +31,12 @@ Feszültség és áram:
 
 Nagyfokú érzékenység:
 A TL071 jól működik alacsony frekvenciájú alkalmazásokban, különösen amikor alacsony zajra van szükség. Alacsony offset feszültséggel és alacsony torzítással rendelkezik, ami különösen fontos precíz jelfeldolgozó áramköröknél.
-Működési jellemzők:
 
-Alacsony zajszint: A TL071 kifejezetten alacsony zajt generál, ami fontos jelfeldolgozásnál, ahol minden kis zajkibocsátás hátrányos lehet.
-Kimeneti áram: A kimeneti áram korlátozott, de elegendő a legtöbb analóg alkalmazáshoz, például erősítő áramkörökhöz és jelerősítéshez.
-Frekvenciaválasz: A TL071 operációs erősítő frekvenciaválasza is elég jó, és képes kezelni a viszonylag magas frekvenciájú jeleket is, mivel nagy nyitott hurok erősítése van (open-loop gain), amely általában 100,000 vagy annál nagyobb.
-Használati alkalmazások:
+Működési jellemzők:
+- Alacsony zajszint: A TL071 kifejezetten alacsony zajt generál, ami fontos jelfeldolgozásnál, ahol minden kis zajkibocsátás hátrányos lehet.
+- Kimeneti áram: A kimeneti áram korlátozott, de elegendő a legtöbb analóg alkalmazáshoz, például erősítő áramkörökhöz és jelerősítéshez.
+- Frekvenciaválasz: A TL071 operációs erősítő frekvenciaválasza is elég jó, és képes kezelni a viszonylag magas frekvenciájú jeleket is, mivel nagy nyitott hurok erősítése van (open-loop gain), amely általában 100,000 vagy annál nagyobb.
+- Használati alkalmazások:
 A TL071 egy sokoldalú IC, amelyet széles körben alkalmaznak az elektronikai iparban és hobbi áramkörökben. Néhány példa a tipikus alkalmazásokra:
 
 Jelerősítés: A TL071 gyakran használatos kis jelszintű jelek erősítésére, például mikrofonok, szenzorok és más alacsony szintű bemeneti jelek esetében.
