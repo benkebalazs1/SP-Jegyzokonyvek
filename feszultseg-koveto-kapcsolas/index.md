@@ -1,6 +1,5 @@
 # Feszültség követő kapcsolás
 
-## Feszültség követő kapcsolás építése:
 - A mérést végezte: Benke Balázs
 - A mérés helye: V3 labor
 - A mérés időpontja: 2025.02.04
@@ -55,4 +54,18 @@ A TL071 egy sokoldalú IC, amelyet széles körben alkalmaznak az elektronikai i
 - Jelfeldolgozás: A precíz analóg jelfeldolgozás során, például jelfeldolgozó rendszerekben, ahol alacsony zaj és magas linearitás szükséges.
 - Feszültségkövetők: A TL071 egy feszültségkövető (buffererősítő) szerepét is betöltheti, mivel magas bemeneti impedanciája és alacsony kimeneti impedanciája van, így alkalmas jelek átvitelére torzítás nélkül.
 
+  
+
+# Nem-invertáló műveleti erősítő
+
+- A mérést végezte: Benke Balázs
+- A mérés helye: V3 labor
+- A mérés időpontja: 2025.02.04
+
+## Kép:
+![IMG_6336](https://github.com/user-attachments/assets/0e95610f-fe0e-481c-988e-18fab942f7cb)
+
+## Adatok:
 Rv=12k, R1=2.7k, Au=5.44, AudB=14.75
+| Ellenállás | Au | AudB |
+| Rv=12k, R1=2.7K | 5.44 | 14.75 |
