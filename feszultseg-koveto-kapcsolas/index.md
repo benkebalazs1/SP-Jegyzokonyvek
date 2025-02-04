@@ -14,3 +14,6 @@ Kapcsolási rajz:
 
 ## Kép:
 ![Képkivágás](https://github.com/user-attachments/assets/023729c6-3748-48d1-a951-769d6851961e)
+
+## Gyakorlati megvalósítása:
+![IMG_6335](https://github.com/user-attachments/assets/27dbc496-e341-483d-bcd8-9b3fbaa0603b)
