@@ -1,9 +1,9 @@
 # Feszültség követő kapcsolás
 
 ## Feszültség követő kapcsolás építése:
--A mérést végezte: Benke Balázs
--A mérés helye: V3 labor
--A mérés időpontja: 2025.02.04
+- A mérést végezte: Benke Balázs
+- A mérés helye: V3 labor
+- A mérés időpontja: 2025.02.04
 
 ## Kapcsolási rajz:
 Kapcsolási rajz:
