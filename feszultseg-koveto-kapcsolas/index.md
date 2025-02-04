@@ -39,7 +39,8 @@ Működési jellemzők:
 - Használati alkalmazások:
 A TL071 egy sokoldalú IC, amelyet széles körben alkalmaznak az elektronikai iparban és hobbi áramkörökben. Néhány példa a tipikus alkalmazásokra:
 
-Jelerősítés: A TL071 gyakran használatos kis jelszintű jelek erősítésére, például mikrofonok, szenzorok és más alacsony szintű bemeneti jelek esetében.
-Szűrők: Aktív szűrőkben, mint például aluláteresztő, felüláteresztő, vagy sávszűrők, gyakran alkalmazzák a TL071-et, mivel jól kezeli a különböző analóg jelalakokat.
-Jelfeldolgozás: A precíz analóg jelfeldolgozás során, például jelfeldolgozó rendszerekben, ahol alacsony zaj és magas linearitás szükséges.
-Feszültségkövetők: A TL071 egy feszültségkövető (buffererősítő) szerepét is betöltheti, mivel magas bemeneti impedanciája és alacsony kimeneti impedanciája van, így alkalmas jelek átvitelére torzítás nélkül.
+Alkalmazások:
+- Jelerősítés: A TL071 gyakran használatos kis jelszintű jelek erősítésére, például mikrofonok, szenzorok és más alacsony szintű bemeneti jelek esetében.
+- Szűrők: Aktív szűrőkben, mint például aluláteresztő, felüláteresztő, vagy sávszűrők, gyakran alkalmazzák a TL071-et, mivel jól kezeli a különböző analóg jelalakokat.
+- Jelfeldolgozás: A precíz analóg jelfeldolgozás során, például jelfeldolgozó rendszerekben, ahol alacsony zaj és magas linearitás szükséges.
+- Feszültségkövetők: A TL071 egy feszültségkövető (buffererősítő) szerepét is betöltheti, mivel magas bemeneti impedanciája és alacsony kimeneti impedanciája van, így alkalmas jelek átvitelére torzítás nélkül.
