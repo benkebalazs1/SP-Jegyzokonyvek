@@ -67,5 +67,4 @@ A TL071 egy sokoldalú IC, amelyet széles körben alkalmaznak az elektronikai i
 
 ## Adatok:
 Rv=12k, R1=2.7k, Au=5.44, AudB=14.75
-| Ellenállás | Au | AudB |
-| Rv=12k, R1=2.7K | 5.44 | 14.75 |
+
