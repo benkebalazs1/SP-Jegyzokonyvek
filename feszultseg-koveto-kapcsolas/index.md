@@ -8,6 +8,9 @@
 ## Jelemzője:
 A feszültségkövető (más néven: feszültségkövető erősítő, vagy buffererősítő) egy olyan kapcsolás, amely a bemeneti feszültség pontos másolatát adja ki a kimeneten, miközben az áramot nem erősíti, hanem azt a bemenethez viszonyítva „követi”. Ennek a kapcsolásnak az alapvető jellemzője, hogy a kimeneti feszültség megegyezik a bemeneti feszültséggel, de nagy bemeneti impedanciával és alacsony kimeneti impedanciával rendelkezik.
 
+## Építés folyamata:
+Breadboard-on bele raktam az IC-t majd a Ni myDAQ-ba bele csavaroztam a kábeleket aztán a megfelelő helyekre be kötöttem a kábeleket IC lábaihoz majd bele dugtam a myDAQ-ba és ezek után megvizsgáltam.
+
 ## Kapcsolási rajz:
 Kapcsolási rajz:
 
@@ -21,7 +24,7 @@ Kapcsolási rajz:
 A TL071 egy népszerű, alacsony zajszintű, egyszálas (single) operációs erősítő IC, amelyet gyakran használnak különböző analóg áramkörökben. A Texas Instruments gyártotta, és a TL071 az operációs erősítők egy jól ismert családjának a tagja. Az IC-t különböző alkalmazásokhoz tervezték, például erősítők, szűrők, analóg jelek feldolgozása és egyéb analóg áramkörökben.
 
 ### Kép:
-| Pin out | fizikai kép |
+| Pin out | fizikai |
 |-------|-------|
 | ![TL071-Pinout](https://github.com/user-attachments/assets/7108b71b-8f6e-43b0-8221-5b04afacb704) | ![41xSQa1swuL](https://github.com/user-attachments/assets/d5f4c7a9-9eaa-4cbb-a2d8-974911f90378) |
 
