@@ -10,6 +10,8 @@
 | Normál színű         | 12.2k  |
 | Zöld színű           | 3.91k  |
 
+- Erősítés eredménye: Au=3.12
+
 ## Használt eszközök:
 - Ni myDAQ
 - 2 ellenállás
