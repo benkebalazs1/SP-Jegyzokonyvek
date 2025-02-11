@@ -17,7 +17,8 @@
 | AudB                 | 9.82   |
 
 képlet:
-Au = Rv / Rbe
+Au = \frac{R_v}{R_{be}}
+
 
 ## Használt eszközök:
 - Ni myDAQ
