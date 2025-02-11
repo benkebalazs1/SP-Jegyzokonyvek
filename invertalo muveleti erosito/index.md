@@ -16,6 +16,9 @@
 | Au                   | 3.12   |
 | AudB                 | 9.82   |
 
+képlet:
+Au = Rv / Rbe
+
 ## Használt eszközök:
 - Ni myDAQ
 - 2 ellenállás
