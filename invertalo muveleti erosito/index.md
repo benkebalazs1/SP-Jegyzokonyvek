@@ -10,6 +10,12 @@
 | Normál színű         | 12.2k  |
 | Zöld színű           | 3.91k  |
 
+## Használt eszközök:
+- Ni myDAQ
+- 2 ellenállás
+- vezetékek
+- TL071 IC
+
 ## Kapcsolási rajz:
 ![200px-Invertáló_alapkapcsolás](https://github.com/user-attachments/assets/591e7511-cca6-4bd8-b31b-6d1a7a3e10c5)
 
