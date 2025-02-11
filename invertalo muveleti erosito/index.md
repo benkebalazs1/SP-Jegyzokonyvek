@@ -5,12 +5,16 @@
 - A mérés időpontja: 2025.02.11
 
   ## Ellenállás adatok:
-| Ellenállás típusa    | Érték  |
+| Ellenállás típusa    | Érték  | 
 |----------------------|--------|
 | Normál színű         | 12.2k  |
 | Zöld színű           | 3.91k  |
 
-- Erősítés eredménye: Au=3.12
+## Eredmények:
+| Eredmény | Érték |
+|----------------------|--------|
+| Au                   | 3.12   |
+| AudB                 | 9.82   |
 
 ## Használt eszközök:
 - Ni myDAQ
