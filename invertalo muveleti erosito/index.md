@@ -16,6 +16,6 @@
 ## Mérés:
 ![Képernyőkép 2025-02-11 120001](https://github.com/user-attachments/assets/4fba8cc2-a1e6-417a-a35d-4aaa7df61ff8)
 
-## Gyakorlati megvalósítás
+## Gyakorlati megvalósítás:
 ![IMG_6402](https://github.com/user-attachments/assets/4b7c9370-30be-43de-96ca-449c94e7589b)
 
