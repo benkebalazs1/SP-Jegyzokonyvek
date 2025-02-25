@@ -5,7 +5,7 @@
 - A mérés időpontja: 2025.02.25
 
 **Mérés célja:**  
-A mért és számított paraméterek összehasonlítása felül- és aluláteresztő szűrő esetében, műveleti erősítő segítségével.
+A mért és számított paraméterek összehasonlítása felül és aluláteresztő szűrő esetében, műveleti erősítő segítségével.
 
 **Mérési eszközök:**
 - **Mérőeszköz:** NI myDAQ
