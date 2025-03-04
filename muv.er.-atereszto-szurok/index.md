@@ -16,7 +16,7 @@ A mért és számított paraméterek összehasonlítása felül és aluláteresz
   - C=10nF
 
 **Gyakorlati megvalósítás:**
-![IMG_6402](https://github.com/user-attachments/assets/17fbb217-db37-4a65-a544-3eb2c1e17bcd)
+![1000005223](https://github.com/user-attachments/assets/a706cad5-a9ff-431d-b58f-9dec7a096f47)
 
 ## 1. Felüláteresztő szűrő
 
