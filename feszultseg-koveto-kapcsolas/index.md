@@ -13,11 +13,11 @@ Breadboard-on bele raktam az IC-t majd a Ni myDAQ-ba bele csavaroztam a kábelek
 ## Kapcsolási rajz:
 Kapcsolási rajz:
 
-## Kép:
-![Képkivágás](https://github.com/user-attachments/assets/023729c6-3748-48d1-a951-769d6851961e)
-
 ## Gyakorlati megvalósítása:
 ![IMG_6335](https://github.com/user-attachments/assets/27dbc496-e341-483d-bcd8-9b3fbaa0603b)
+
+## Mérés:
+![Képkivágás](https://github.com/user-attachments/assets/023729c6-3748-48d1-a951-769d6851961e)
 
 ## TL071 IC:
 A TL071 egy népszerű, alacsony zajszintű, egyszálas (single) operációs erősítő IC, amelyet gyakran használnak különböző analóg áramkörökben. A Texas Instruments gyártotta, és a TL071 az operációs erősítők egy jól ismert családjának a tagja. Az IC-t különböző alkalmazásokhoz tervezték, például erősítők, szűrők, analóg jelek feldolgozása és egyéb analóg áramkörökben.
