@@ -11,4 +11,7 @@
 ![Képkivágás](https://github.com/user-attachments/assets/023729c6-3748-48d1-a951-769d6851961e)
 
 ## Adatok:
-Rv=12k, R1=2.7k, Au=5.44, AudB=14.75
+Rv=12k 
+R1=2.7k 
+Au=5.44 
+AudB=14.75
