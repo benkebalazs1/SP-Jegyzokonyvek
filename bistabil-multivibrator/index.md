@@ -4,6 +4,11 @@
 - A mérés helye: V3 labor
 - A mérés időpontja: 2025.03.11
 
+## Adatok:
+- R1=10k
+- R2=10k
+- R3=220
+
 ## Kapcsolás:
 ![circuit-20250311-1228](https://github.com/user-attachments/assets/38e2e139-0066-49c5-8ccd-4307035b45c4)
 
