@@ -10,10 +10,10 @@
 - R3=220
 - C=10nF
 
-## Gyakorlati megvalósítás:
+## Gyakorlati megvalósítás képben:
 ![IMG_6779](https://github.com/user-attachments/assets/dcf4f335-1a7a-49d2-b89e-e79890d6bd59)
 
-## Gyakorlati videó:
+## Gyakorlati megvalósítás videóban:
 https://github.com/user-attachments/assets/39306133-abf1-4240-b933-41185c1ea323
 
 ## 555 IC pinout:
