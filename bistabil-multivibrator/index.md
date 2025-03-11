@@ -10,7 +10,7 @@
 - R3=220
 
 ## Kapcsolás:
-![circuit-20250311-1228](https://github.com/user-attachments/assets/38e2e139-0066-49c5-8ccd-4307035b45c4)
+![Bistable-Multivibrator-555-Timer-Circuit-Diagram-600x469](https://github.com/user-attachments/assets/a0dd9fe3-13d0-4d42-853b-a7419590aba3)
 
 ## Gyakorlati megvalósítás képben:
 ![IMG_6783](https://github.com/user-attachments/assets/ab3aac05-0e78-408c-8bab-37d3636188bf)
