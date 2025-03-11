@@ -10,6 +10,10 @@
 - R3=220
 - C=10nF
 
+## Kapcsolás:
+![circuit-20250311-1209](https://github.com/user-attachments/assets/1cd95929-3bbe-499b-87f1-93dbd699721b)
+
+
 ## Gyakorlati megvalósítás képben:
 ![IMG_6779](https://github.com/user-attachments/assets/dcf4f335-1a7a-49d2-b89e-e79890d6bd59)
 
