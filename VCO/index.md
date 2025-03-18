@@ -1,7 +1,7 @@
 # Simple Voltage-Controller Oscilator
 
 - A mérést végezte: Benke Balázs
-- A mérés helye. V3 labor
+- A mérés helye: V3 labor
 - A mérés időpontja: 2025.03.18
 
 ## Méréshez használt eszközök:
