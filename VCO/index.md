@@ -28,5 +28,5 @@ https://github.com/user-attachments/assets/505f860f-12d6-4582-97b0-29a7bda8c1ae
 Elöszőr elrontottam pár alkatrész bemenetett de viszont miután tanár úr elmagyarázta utána megértettem és jól mükődö kapcsolásom lett és ebből a hibából tanultam.
 
 
-### Benke Balázs
+###### Benke Balázs
 
