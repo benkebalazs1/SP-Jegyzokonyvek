@@ -1,4 +1,4 @@
-# Feszültség követő kapcsolás
+# Invertáló műveleti erősítő  
 
 - A mérést végezte: Benke Balázs
 - A mérés helye: V3 labor
