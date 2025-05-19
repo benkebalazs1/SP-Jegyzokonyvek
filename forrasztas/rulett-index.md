@@ -29,6 +29,7 @@ Azután amikor már a maradék alkatrészeket is beforrasztottam akkor már csak
 - LED-eket pörget a játékok között
 - nyomógombos működés
 - mikroprocesszoros technológia
+
 ![wsg119_top-700x525h](https://github.com/user-attachments/assets/9aa80cb5-7d4b-4963-9210-182b1fcf3ac7)
 - forrás: https://www.kiwi-electronics.com/en/roulette-soldering-kit-11081
 
