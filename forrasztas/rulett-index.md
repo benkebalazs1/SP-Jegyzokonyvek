@@ -35,3 +35,5 @@ Azután amikor már a maradék alkatrészeket is beforrasztottam akkor már csak
 
 ## Önértékelés:
 Miután már beleforrasztottam a IC-ket, nyomógombot és a hangszórót rájöttem, hogy a kondenzátort és a tranzisztor ezért, de legközelebb jobban fogok figyelni.
+
+###### Benke Balázs
